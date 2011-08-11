@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="48"
+   height="48"
+   id="svgwarning">
+  <defs
+     id="defswarning" />
+  <text
+     x="24"
+     y="24"
+     transform="scale(0.89833804,1.1131667)"
+     id="textwarning"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Serif;"><tspan
+       x="26"
+       y="26"
+       id="tspanwarning">warning</tspan></text>
+</svg>

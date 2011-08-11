@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="112"
+   height="100"
+   id="svgtitle_logo">
+  <defs
+     id="defstitle_logo" />
+  <text
+     x="56"
+     y="50"
+     transform="scale(0.89833804,1.1131667)"
+     id="texttitle_logo"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Serif;"><tspan
+       x="58"
+       y="52"
+       id="tspantitle_logo">title_logo</tspan></text>
+</svg>
