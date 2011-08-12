@@ -14,16 +14,16 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="619"
-   height="197"
-   viewBox="0 0 619 197"
+   width="299"
+   height="100"
+   viewBox="0 0 299 100"
    enable-background="new 0 0 543 197"
    xml:space="preserve"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="cloudstack_logo_rgb_FINALtagline.svg"><metadata
+   sodipodi:docname="test_logo.svg"><metadata
    id="metadata3261"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs3259" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -37,13 +37,15 @@
    inkscape:window-height="753"
    id="namedview3257"
    showgrid="false"
-   inkscape:zoom="0.94290976"
+   inkscape:zoom="2.3150307"
    inkscape:cx="135.75"
    inkscape:cy="98.5"
    inkscape:window-x="-3"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   showguides="true"
+   inkscape:guide-bbox="true" />
 <pattern
    x="-123.5"
    y="403.5"
@@ -240,7 +242,8 @@
 	</g>
 </pattern>
 <g
-   id="g3224">
+   id="g3224"
+   transform="matrix(0.5397128,0,0,0.47429761,-11.54274,-15.412643)">
 	<path
    d="m 53.199,124.06 c -14.587,0 -25.282,-12.24 -25.282,-27.35 v -0.195 c 0,-15.11 10.603,-27.549 25.463,-27.549 9.151,0 14.863,3.362 19.389,8.885 l -8.424,9.873 C 61.26,84.172 58.178,81.898 53.288,81.898 46.4,81.898 41.509,88.513 41.509,96.32 v 0.195 c 0,8.097 4.802,14.606 12.324,14.606 4.618,0 7.791,-2.161 11.145,-5.624 l 8.061,8.893 c -4.715,5.619 -10.147,9.67 -19.84,9.67"
    id="path3226"
@@ -314,29 +317,31 @@
    patternTransform="matrix(1 0 0 -1 17.2363 -1377)">
 	</pattern>
 	<polygon
-   points="466.959,42.223 483.008,42.223 483.008,91.657 500.772,71.113 520.459,71.113 499.807,94.546 520.994,123.115 500.772,123.115 483.223,96.793 483.008,96.793 483.008,123.115 466.959,123.115 "
+   points="483.223,96.793 483.008,96.793 483.008,123.115 466.959,123.115 466.959,42.223 483.008,42.223 483.008,91.657 500.772,71.113 520.459,71.113 499.807,94.546 520.994,123.115 500.772,123.115 "
    id="polygon3249"
    style="fill:url(#SVGID_10_)" />
 </g>
 <rect
    x="-123.5"
-   y="-186.5"
+   y="-283.5"
    width="800"
    height="600"
    id="rect3251"
    style="fill:none" />
 <line
-   x1="53.033001"
-   y1="134"
-   x2="532.03302"
-   y2="134"
+   x1="2.1267509"
+   y1="52.908203"
+   x2="293.45892"
+   y2="52.908203"
    id="line3253"
-   style="fill:none;stroke:#6699cc;stroke-width:0.25" />
+   style="fill:none;stroke:#6699cc;stroke-width:0.19496942" />
 <text
    font-size="36"
    id="text3255"
-   style="font-size:36px;fill:#8a8a8a;font-family:MyriadPro-Regular"
-   x="85.238297"
-   y="168">open source cloud computing </text>
+   style="font-size:18.040308px;fill:#8a8a8a;font-family:MyriadPro-Regular"
+   x="29.105854"
+   y="69.817314"
+   transform="scale(0.97693696,1.0236075)">open source cloud computing </text>
+
 
 </svg>
