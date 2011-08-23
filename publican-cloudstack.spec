@@ -11,7 +11,7 @@ Buildarch:	noarch
 Source:		%{name}-%{version}.tgz
 Requires:	publican >= 1.99
 BuildRequires:	publican >= 1.99
-URL:		https://cloudstack.org
+URL:		http://cloudstack.org
 
 %description
 This package provides common files and templates needed to build documentation
