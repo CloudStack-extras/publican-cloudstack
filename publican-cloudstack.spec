@@ -34,7 +34,8 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(-,root,root,-)
 %doc README
-%doc COPYING
+%doc LICENSE
+%doc NOTICE
 %{_datadir}/publican/Common_Content/%{brand}
 
 %changelog
