@@ -2,9 +2,9 @@
 
 Name:		publican-cloudstack
 Summary:	Common documentation files for %{brand}
-Version:	0.1
+Version:	0.2
 Release:	1%{?dist}
-License:	CC-BY-SA
+License:	ASLv2
 Group:		Applications/Text
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 Buildarch:	noarch
@@ -38,6 +38,8 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/publican/Common_Content/%{brand}
 
 %changelog
+* Tue Jun 26 2012  David Nalley <david@gnsa.us> 0.2-1
+- updated for ASF move
 * Sat Aug 11 2011  David Nalley <david@gnsa.us> 0.1-1
 - Created Brand
 
